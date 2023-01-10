@@ -16,8 +16,8 @@ In the console, run
 git clone your_url_here
 ```
 
-where ```your_url_here``` is the copied address. This will download a copy of the assignment. It'll be in a subfolder called ```activity_01```. Navigate to this folder. 
-Run the command
+where ```your_url_here``` is the copied address. This will download a copy of the assignment. It'll be in a subfolder that begins with ```activity-1```.
+Navigate to this folder.  Run the command
 
 ```
 py -3.7 -m venv virtualenv
