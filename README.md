@@ -39,4 +39,5 @@ Once you've completed these tests, you can update your activity on github by run
 ```
 git add .
 git commit -m "your message here"
-git push -u origin master```
+git push -u origin master
+```
