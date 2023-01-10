@@ -14,4 +14,7 @@ Add functions to ```review.py``` to satisfy the tests in ```review_test.py```. R
 
 to create a virtual environment for this activity. To activate this virtual environment, run
 
-```source virtualenv/Scripts/activate```
+```source virtualenv/Scripts/activate```.
+
+
+
