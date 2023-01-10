@@ -36,6 +36,7 @@ You can find these specifications in ```review_test.py```.
 Add functions to ```review.py``` to satisfy the tests in ```review_test.py```.
 Once you've completed these tests, you can update your activity on github by running:
 
-```git add .
+```
+git add .
 git commit -m "your message here"
 git push -u origin master```
