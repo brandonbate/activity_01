@@ -8,7 +8,7 @@ This activity has you review basic Python. I recommend using the following websi
 To get started, you'll need to create a folder to store activities for this course. I used the folder name ```activities```. 
 Navigate to this folder in git bash. Click on the "copy" button displayed on this git page.
 
-![](instruction_pic.png | width=100)
+![instruction_pic.png](https://github.com/brandonbate/in_class_01_python_review/blob/master/instruction_pic.png | width=100)
 
 In the console, run
 
