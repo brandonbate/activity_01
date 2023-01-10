@@ -44,7 +44,15 @@ pytest
 This will generate several errors. The file ```review_test.py``` is used by ```pytest``` to test if ```review.py``` has functions that meet certain specifications.
 You can find these specifications in ```review_test.py```.
 Add functions to ```review.py``` to satisfy the tests in ```review_test.py```.
-Once you've completed these tests, you can update your activity on github by running:
+There are 20 tests in ```review_test.py```, and by default, ```pytest``` runs them all.
+The output from this can be overwhelming.
+If you want to restrict to a single test, say ```test_hello```, you can so by running
+
+```
+pytest -k test_hello
+```
+
+Once you've written code that satisfies these tests, you can update your activity on github by running:
 
 ```
 git add .
