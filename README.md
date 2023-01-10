@@ -26,15 +26,19 @@ to create a virtual environment for this activity. To activate this virtual envi
 
 ```
 source virtualenv/Scripts/activate
-```.
+```
 
 For this activity, you will need to install a python package. Run:
 
-```pip install pytest```.
+```
+pip install pytest
+```
 
 Run the command:
 
-```pytest```.
+```
+pytest
+```
 
 This will generate several errors. The file ```review_test.py``` is used by ```pytest``` to test if ```review.py``` has functions that meet certain specifications.
 You can find these specifications in ```review_test.py```.
