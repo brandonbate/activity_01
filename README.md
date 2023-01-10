@@ -10,18 +10,23 @@ Navigate to this folder in git bash. Click on the "copy" button displayed on thi
 
 In the console, run
 
-```git clone your_url_here```
+```
+git clone your_url_here
+```
 
 where ```your_url_here``` is the copied address. This will download a copy of the assignment. It'll be in a subfolder that begins with
 ```in-class-activity-1...```. Navigate to this folder. 
-
 Run the command
 
-```py -3.7 -m venv virtualenv```
+```
+py -3.7 -m venv virtualenv
+```
 
 to create a virtual environment for this activity. To activate this virtual environment, run
 
-```source virtualenv/Scripts/activate```.
+```
+source virtualenv/Scripts/activate
+```.
 
 For this activity, you will need to install a python package. Run:
 
