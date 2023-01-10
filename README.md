@@ -10,7 +10,7 @@ Navigate to this folder in git bash. Click on the "copy" button displayed on thi
 
 In the console, run
 
-``git clone your_url_here```
+```git clone your_url_here```
 
 where ```your_url_here``` is the copied address. This will download a copy of the assignment. It'll be in a subfolder that begins with
 ```in-class-activity-1...```. Navigate to this folder. 
@@ -36,6 +36,6 @@ You can find these specifications in ```review_test.py```.
 Add functions to ```review.py``` to satisfy the tests in ```review_test.py```.
 Once you've completed these tests, you can update your activity on github by running:
 
-```git add .```
-```git commit -m "your message here"```
-```git push -u origin master``
+```git add .
+git commit -m "your message here"
+git push -u origin master```
