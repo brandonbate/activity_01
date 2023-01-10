@@ -16,8 +16,7 @@ In the console, run
 git clone your_url_here
 ```
 
-where ```your_url_here``` is the copied address. This will download a copy of the assignment. It'll be in a subfolder that begins with
-```in-class-activity-1...```. Navigate to this folder. 
+where ```your_url_here``` is the copied address. This will download a copy of the assignment. It'll be in a subfolder ```activity_01```. Navigate to this folder. 
 Run the command
 
 ```
