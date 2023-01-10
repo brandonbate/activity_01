@@ -8,7 +8,7 @@ This activity has you review basic Python. I recommend using the following websi
 To get started, you'll need to create a folder to store activities for this course. I used the folder name ```activities```. 
 Navigate to this folder in git bash. Click on the "copy" button displayed on this git page.
 
-<img src="instruction_pic.png"  width=50% height=50%>
+<img src="instruction_pic.png"  width=30% height=30%>
 
 In the console, run
 
