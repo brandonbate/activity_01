@@ -46,7 +46,7 @@ You can find these specifications in ```review_test.py```.
 Add functions to ```review.py``` to satisfy the tests in ```review_test.py```.
 There are 20 tests in ```review_test.py```, and by default, ```pytest``` runs them all.
 The output from this can be overwhelming.
-If you want to restrict to a single test, say ```test_hello```, you can so by running
+If you want to restrict to a single test, say ```test_hello```, you can do so by running
 
 ```
 pytest -k test_hello
