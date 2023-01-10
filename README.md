@@ -1,4 +1,4 @@
-# Activity #1
+# Activity #1 - Python Review
 
 This activity has you review basic Python. I recommend using the following websites to help with this review:
 
